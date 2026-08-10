@@ -1,0 +1,4 @@
+{"timestamp":"00:00:10.199","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 393ms. If D:\\(TRABAJO)\\_CLIENTES\\IWON\\iwonaudiovisual-app\\landing-standalone/.next/dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
+{"timestamp":"00:00:14.551","source":"Server","level":"LOG","message":"○ Compiling middleware ..."}
+{"timestamp":"00:00:17.245","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:20.277","source":"Server","level":"LOG","message":"○ Compiling / ..."}
