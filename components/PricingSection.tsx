@@ -9,8 +9,7 @@ export function PricingSection() {
       <div className="contact-grid">
         <div>
           <h2>¿Tenés una<br /><em>canción?</em></h2>
-          <p className="lead">¿Querés filmar? Mandanos un mensaje y arreglamos todo.</p>
-          <p className="muted">Sin compromiso. Sin formulario eterno. Solo queremos escuchar qué estás haciendo.</p>
+          <p className="lead">Mandanos un mensaje y arreglamos todo.</p>
           <a
             className="button button-yellow"
             href="https://wa.me/5491100000000?text=Hola%2C%20quiero%20saber%20m%C3%A1s..."
@@ -19,6 +18,7 @@ export function PricingSection() {
           >
             Escribinos por WhatsApp <Arrow />
           </a>
+          <p className="muted">Sin compromiso. Sin formulario eterno. Solo queremos escuchar qué estás haciendo.</p>
         </div>
       </div>
     </section>
