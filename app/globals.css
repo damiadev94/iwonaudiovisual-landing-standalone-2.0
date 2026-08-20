@@ -29,3 +29,9 @@
   .hero-media-overlay{background:linear-gradient(90deg,rgba(17,16,15,.98) 0%,rgba(17,16,15,.82) 24%,rgba(17,16,15,.24) 62%,rgba(17,16,15,0) 100%),linear-gradient(0deg,rgba(17,16,15,.93) 0%,rgba(17,16,15,0) 72%)}
   .hero h1{font-size:clamp(58px,8.5vw,120px)}
 }
+
+/* Contact section rhythm */
+.contact h2{margin-bottom:30px}
+.contact .lead{margin-bottom:30px}
+.contact .button{margin-bottom:24px}
+.contact .muted{margin-bottom:0}
