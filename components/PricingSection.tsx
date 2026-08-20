@@ -12,7 +12,7 @@ export function PricingSection() {
           <p className="lead">Mandanos un mensaje y arreglamos todo.</p>
           <a
             className="button button-yellow"
-            href="wa.link/uetaz7"
+            href="https://wa.link/uetaz7"
             target="_blank"
             rel="noreferrer"
           >
