@@ -1,8 +1,8 @@
 const steps = [
-  ["01", "Charlamos", "Nos contás tu canción, tus referencias y qué querés hacer sentir."],
+  ["01", "Charlamos", "Nos contás tu canción, tus referencias y qué querés filmar."],
   ["02", "Damos forma", "Armamos una propuesta visual realista, con locaciones y plan de rodaje."],
   ["03", "Filmamos", "Un día de rodaje con dirección clara, equipo profesional y buena onda."],
-  ["04", "Estrenás", "Recibís tu videoclip listo para YouTube, redes y para que lo vea todo el mundo."],
+  ["04", "Estrenás", "Te entregamos el video antes de los 14 días."],
 ];
 
 function Arrow() { return <span className="arrow" aria-hidden="true">↗</span>; }

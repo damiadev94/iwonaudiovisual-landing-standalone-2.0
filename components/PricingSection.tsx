@@ -5,11 +5,11 @@ function Arrow() {
 export function PricingSection() {
   return (
     <section id="contacto" className="contact section-pad">
-      <div className="section-label">04 / Hagamos algo</div>
+      <div className="section-label">04 / Filmemos</div>
       <div className="contact-grid">
         <div>
           <h2>¿Tenés una<br /><em>canción?</em></h2>
-          <p className="lead">Mandanos un mensaje y coordinamos una charla de 15 minutos.</p>
+          <p className="lead">¿Querés filmar? Mandanos un mensaje y arreglamos todo.</p>
           <p className="muted">Sin compromiso. Sin formulario eterno. Solo queremos escuchar qué estás haciendo.</p>
           <a
             className="button button-yellow"
