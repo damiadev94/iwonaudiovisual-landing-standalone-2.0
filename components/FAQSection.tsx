@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const faqs = [
   ["¿Cuánto cuesta filmar un videoclip?", "Cada proyecto se cotiza según la idea, locaciones y cantidad de horas. Te pasamos un presupuesto claro, sin vueltas."],
-  ["¿Trabajan en CABA y Conurbano?", "Sí. Filmamos en Capital y en todo el Conurbano. También podemos ayudarte a encontrar una locación que esté a la altura de tu canción."],
+  ["¿En qué zonas trabajan?", "Trabajamos exclusivamente en CABA."],
   ["¿Qué incluye el servicio?", "Preproducción de la idea, rodaje con equipo profesional y edición con color cinematográfico. Hablamos de todo en una primera llamada sin costo."],
   ["¿Necesito tener una idea armada?", "No. Solo necesitamos escuchar tu canción y entender qué querés transmitir. Bajamos la idea a un plan de rodaje posible para tu presupuesto."],
 ];
