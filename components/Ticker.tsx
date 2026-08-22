@@ -1,4 +1,4 @@
-const items = ["IMAGEN QUE SUENA", "HISTORIAS QUE QUEDAN", "TU PRÓXIMO VIDEOCLIP"];
+const items = ["IDEA + RODAJE + EDICIÓN", "PRESUPUESTO CLARO", "ENTREGA EN HASTA 14 DÍAS"];
 
 export function Ticker() {
   const content = [...items, ...items];

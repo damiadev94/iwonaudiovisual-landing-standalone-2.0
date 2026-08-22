@@ -46,11 +46,11 @@ export function Hero() {
       </div>
       <div className="hero-grain" aria-hidden="true" />
       <div className="hero-copy">
-        <p className="eyebrow"><i /> Productora audiovisual · Buenos Aires</p>
-        <h1>FILMAMOS <br /> CON <em>CAMARA</em> <br /><em>DE CINE</em> <br /> en 6K</h1>
-        <p className="hero-text">Videoclips con identidad cinematográfica para artistas que están listos para dejar de esperar.</p>
+        <p className="eyebrow"><i /> Videoclips para urbana, trap y artistas independientes</p>
+        <h1>FILMAMOS <br /><em>TU VIDEOCLIP</em> <br />CON <em>CÁMARA DE CINE</em> EN 6K</h1>
+        <p className="hero-text">Armamos videoclips con tus referencias, una idea clara y un plan que cierre con tu presupuesto.</p>
         <div className="hero-actions">
-          <a className="button button-yellow" href="#contacto">Quiero filmar <Arrow /></a>
+          <a className="button button-yellow" href="#contacto">Quiero hacer mi video <Arrow /></a>
           <a className="text-link" href="#trabajos">Ver trabajos <span>↓</span></a>
         </div>
       </div>

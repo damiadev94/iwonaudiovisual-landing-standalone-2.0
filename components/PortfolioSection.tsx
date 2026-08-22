@@ -214,7 +214,7 @@ const items = [
 export function PortfolioSection() {
   return (
     <section id="trabajos" className="work-section section-pad">
-      <div className="section-top"><div className="section-label">02 / Selección de trabajos</div><p className="muted">Una canción, una atmósfera,<br />una forma de verla.</p></div>
+      <div className="section-top"><div className="section-label">02 / Selección de trabajos</div><p className="muted">Videos hechos para que el tema<br />entre por los ojos.</p></div>
 
       <div className="work-grid">
         {items.map((item) => (

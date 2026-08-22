@@ -8,7 +8,7 @@ export function LandingFooter() {
   return (
     <footer className="footer">
       <a className="brand" href="#inicio">IWON<span>®</span></a>
-      <p>Productora audiovisual para artistas independientes<br />CABA · Conurbano · Buenos Aires</p>
+      <p>Productora audiovisual para artistas independientes<br />CABA · Buenos Aires</p>
       <div>{footerLinks.map(({ label, href }) => <a key={label} href={href} target={href.startsWith("http") ? "_blank" : undefined} rel={href.startsWith("http") ? "noreferrer" : undefined}>{label} ↗</a>)}</div>
       <small>© 2026 Iwon Audiovisual</small>
     </footer>

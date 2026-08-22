@@ -4,9 +4,9 @@ import { useState } from "react";
 
 const faqs = [
   ["¿Cuánto cuesta filmar un videoclip?", "Cada proyecto se cotiza según la idea, locaciones y cantidad de horas. Te pasamos un presupuesto claro, sin vueltas."],
-  ["¿En qué zonas trabajan?", "Trabajamos exclusivamente en CABA."],
-  ["¿Qué incluye el servicio?", "Preproducción de la idea, rodaje con equipo profesional y edición con color cinematográfico. Hablamos de todo en una primera llamada sin costo."],
-  ["¿Necesito tener una idea armada?", "No. Solo necesitamos escuchar tu canción y entender qué querés transmitir. Bajamos la idea a un plan de rodaje posible para tu presupuesto."],
+  ["¿En qué zonas trabajan?", "Filmamos exclusivamente en CABA."],
+  ["¿Qué incluye el servicio?", "Incluye desarrollo de idea, preproducción, rodaje, edición y color. Antes de filmar dejamos claro qué se hace, cuánto sale y cuándo se entrega."],
+  ["¿Necesito tener una idea armada?", "No. Con el tema, algunas referencias o una idea suelta alcanza. Nosotros te ayudamos a bajarla a un rodaje posible."],
 ];
 
 export function FAQSection() {

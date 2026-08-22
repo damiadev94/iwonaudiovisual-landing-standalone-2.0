@@ -5,11 +5,11 @@ function Arrow() {
 export function PricingSection() {
   return (
     <section id="contacto" className="contact section-pad">
-      <div className="section-label">04 / Filmemos</div>
+      <div className="section-label">04 / Hablemos de tu video</div>
       <div className="contact-grid">
         <div>
-          <h2>¿Tenés una<br /><em>canción?</em></h2>
-          <p className="lead">Mandanos un mensaje y arreglamos todo.</p>
+          <h2>¿Tenés un tema<br /><em>para filmar?</em></h2>
+          <p className="lead">Mandanos el tema o contanos la idea. Te orientamos y te pasamos un presupuesto claro.</p>
           <a
             className="button button-yellow"
             href="https://wa.link/uetaz7"
@@ -18,7 +18,7 @@ export function PricingSection() {
           >
             Escribinos por WhatsApp <Arrow />
           </a>
-          <p className="muted">Sin compromiso. Sin formulario eterno. Solo queremos escuchar qué estás haciendo.</p>
+          <p className="muted">Sin formulario eterno ni compromiso. Nos contás qué querés hacer y vemos cómo llevarlo a video.</p>
         </div>
       </div>
     </section>
